@@ -17,7 +17,7 @@ This project imports the [Meshtastic.js library](https://github.com/meshtastic/m
 
 1. Delete all files on SPIFFS (SPI Flash File System) using the delete links.
 
-1. Upload the three files attached to the following page https://github.com/crossan007/meshtastic-web/releases/tag/0.1.1 5 ( index.html.gz , app.js.gz and app.css.gz )
+1. Upload the three files attached to the [latest releases page](https://github.com/meshtastic/meshtastic-web/releases/latest) ( index.html.gz , app.js.gz and app.css.gz )
 
 1. Navigate to the root URL of your radio.
 
